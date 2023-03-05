@@ -63,7 +63,7 @@ border: 1px solid #DADADA;
 width: 115px;
 height: 36px;
 cursor: pointer;
-
+border-style: hidden;
 background: #FFD43A;
 border-radius: 10px;
 }
@@ -72,7 +72,11 @@ border-radius: 10px;
 width: 115px;
 height: 36px;
 cursor: pointer;
-
+border-style: hidden;
 background: #E84949;
 border-radius: 10px;
+}
+.container {
+    margin-left: 141px;
+    margin-top: 85px;
 }
